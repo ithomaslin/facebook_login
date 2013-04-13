@@ -12,8 +12,7 @@ include_once('include/presentation/header.php');
 	
 	<p>Another secure page</p><br>
 	
-	<iframe width="560" height="315" src="http://www.youtube.com/embed/dcDN409ZBv4" frameborder="0" allowfullscreen></iframe>
-	
+
 </div>
 
 <?
