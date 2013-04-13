@@ -51,6 +51,6 @@ $GLOBALS['fb_sdk_js_callback'] = '';
 $GLOBALS['fb_sdk_lang'] = 'en_US';
 
 //db tables
-$GLOBALS['db_table']['users'] = 'fb_login_users';
+$GLOBALS['db_table']['users'] = 'fbusers';
 
 ?>
