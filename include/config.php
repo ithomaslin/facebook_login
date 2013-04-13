@@ -8,7 +8,7 @@ $GLOBALS['app_folder'] = ''; //ex: /products/facebook_login
 $GLOBALS['app_name'] = 'Merit Master';
 
 //database access
-$GLOBALS['db_host'] = 'jdbc:mysql://mysql-mastermerit.j.layershift.co.uk/mastermerit';//host link
+$GLOBALS['db_host'] = 'mysql-mastermerit.j.layershift.co.uk';//host link
 $GLOBALS['db_name'] = 'meritmaster';
 $GLOBALS['db_user'] = 'mmview';
 $GLOBALS['db_password'] = '7AmjYU2FY4THMJz4';
