@@ -10,8 +10,6 @@ include_once('include/presentation/header.php');
 	
 	<h2>Secure page 1</h2><hr><br>
 	
-	<iframe width="853" height="480" src="http://www.youtube.com/embed/9bZkp7q19f0" frameborder="0" allowfullscreen></iframe>
-	
 </div>
 
 <?
