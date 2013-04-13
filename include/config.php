@@ -14,8 +14,8 @@ $GLOBALS['db_user'] = 'root';
 $GLOBALS['db_password'] = '';
 
 //Facebook app data
-$GLOBALS['fb_app_id'] = 'your_data_here';
-$GLOBALS['fb_app_secret'] = 'your_data_here';
+$GLOBALS['fb_app_id'] = '136007779917166';
+$GLOBALS['fb_app_secret'] = 'c5ffdcc05a3d6b6cf3948dced53247fa';
 
 //email
 $GLOBALS['email_from'] = 'your_data_here'; //used to send a reset password email
