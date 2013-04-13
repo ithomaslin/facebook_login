@@ -18,9 +18,6 @@ $user_privilege = $session['privilege'];
 	You are currently securely connected and only connected user are able to access this page.
 	<br>
 	
-	Please navigate through the menu to get a look. 
-	Get this app on <a href="http://codecanyon.net/item/facebook-login-secure-php-area/1520682?ref=yougapi">this page</a> and check our all our other apps on <a href="http://codecanyon.net/user/yougapi/portfolio?ref=yougapi">our portfolio page</a>.
-	
 </div>
 
 <?
