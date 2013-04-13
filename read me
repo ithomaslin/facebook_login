@@ -12,7 +12,7 @@ Make sure when creating a new application to define the “App domain”, and in
 You should get your Facebook app id and app secret to be used later on in the PHP configuration file.
 Important
 1. If you are using a www. for your site, make sure the app domain starts with a www. and your site URL starts with a http://www. as well. If you are not using a www. for your site don’t specify any www. in your Facebook app settings.
-2. Don’t forget to define your own app domain (ex: yougapi.com)
+2. Don’t forget to define your own app domain
 ￼￼￼￼￼￼￼￼￼￼￼
 Configure the app on your server
 You need to open the file “include/config.php”. All the settings are centralized into that single
