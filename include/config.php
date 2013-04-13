@@ -8,10 +8,10 @@ $GLOBALS['app_folder'] = '/products/facebook_login'; //ex: /products/facebook_lo
 $GLOBALS['app_name'] = 'Facebook login';
 
 //database access
-$GLOBALS['db_host'] = 'localhost';
-$GLOBALS['db_name'] = 'dev';
-$GLOBALS['db_user'] = 'root';
-$GLOBALS['db_password'] = '';
+$GLOBALS['db_host'] = 'mysql-mastermerit.j.layershift.co.uk';//host link
+$GLOBALS['db_name'] = 'meritmaster';
+$GLOBALS['db_user'] = 'mmview';
+$GLOBALS['db_password'] = '7AmjYU2FY4THMJz4';
 
 //Facebook app data
 $GLOBALS['fb_app_id'] = '136007779917166';
@@ -26,7 +26,7 @@ $GLOBALS['admin_username'] = 'admin';
 $GLOBALS['admin_password'] = 'admin';
 
 //meta data
-$GLOBALS['meta']['title'] = 'Facebook login';
+$GLOBALS['meta']['title'] = 'Merit Master';
 $GLOBALS['meta']['description'] = '';
 $GLOBALS['meta']['image'] = '';
 $GLOBALS['meta']['fb_admins'] = '';
