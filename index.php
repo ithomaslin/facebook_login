@@ -75,23 +75,6 @@ if($connect=='fb') {
 			
 		</div>
 		
-		<div class="span3" style="text-align:right;">
-			
-			<p>Some of our other apps</p>
-			
-			<a href="http://codecanyon.net/item/advanced-php-store-locator/244349?ref=yougapi" target="_blank"><img src="./include/graph/advanced-store-locator-mini.png" style="margin-bottom:10px;"></a>
-			<a href="http://codecanyon.net/item/jquery-carousel-evolution-for-wordpress/702228?ref=yougapi" target="_blank"><img src="./include/graph/carousel-wpress-mini.png" style="margin-bottom:10px;"></a><br>
-			<a href="http://codecanyon.net/item/domains-names-checker/3298128?ref=yougapi" target="_blank"><img src="./include/graph/domains-checker-mini.png" style="margin-bottom:10px;"></a>
-			<a href="http://codecanyon.net/item/facebook-images-gallery/3281185?ref=yougapi" target="_blank"><img src="./include/graph/fb-gallery-mini.png" style="margin-bottom:10px;"></a><br>
-			
-			<br>
-			
-			<p>Featured mobile apps</p>
-			<a href="http://codecanyon.net/item/mobile-site-builder/491023?ref=yougapi" target="_blank"><img src="./include/graph/mobile-builder-mini.png" style="margin-bottom:10px;"></a>
-			<a href="http://codecanyon.net/item/mobile-store-locator/239351?ref=yougapi" target="_blank"><img src="./include/graph/mobile-store-locator-mini.png" style="margin-bottom:10px;"></a>
-			
-		</div>
-		
 	</div>
 </div>
 
