@@ -4,8 +4,7 @@ if($GLOBALS['require_session']==1 && !session_is_live()) {
 }
 ?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<!DOCTYPE html>
 <head>
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -120,7 +119,10 @@ if($GLOBALS['fb_app_id']!='') {
 
 <?php
 if($GLOBALS['demo_mode']) {
-	echo '<div class="container"><div class="alert alert-error">Please note that some functions are disabled in this demo.
-	Use <b>admin</b> // <b>admin</b> to access the admin section :)</div></div>';
+	echo '<div class="container">
+		<div class="alert alert-error">
+			Use <b>admin</b> // <b>admin</b> to access the admin section :)
+		</div>
+	      </div>';
 }
 ?>
